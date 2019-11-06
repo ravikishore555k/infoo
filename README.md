@@ -38,7 +38,7 @@ Use default credentials to login
 username : admin
 password : admin123
 
-Troubleshooting
+Troubleshooting 
 service is not starting?
 
 make sure you are trying to start service with nexus user.
